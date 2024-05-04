@@ -1,6 +1,8 @@
 {
-    "books":{  "A1": [
-       {
+    
+    "books":
+    {  "A1": 
+        {
             "London": {
                 "author": "John Escott",
                 "photo": "https://english-e-reader.net/covers/London-John_Escott.jpg",
@@ -36,10 +38,141 @@
                 "photo": "https://english-e-reader.net/covers/Give_Us_the_Money-Clarke_Maeve.jpg",
                 "text": "Adam is the most ordinary guy in the world. He works in the bank. Every day he doesn't want to go to work, but he goes. His life is boring. Still it is fine for the guy. But one day a sudden adventure happens in Adam's simple and quiet life. First he meets Lisa. Adam decides to help this beautiful girl. Some bandits are trying to take her purse away. But then something strange happens. Lisa's bag contains a large sum of money. This money is from the sale of drugs. Some very dangerous people want to get that money. So Adam gets into a criminal story. It is full of dangers. An ordinary bank worker does not have time to be a hero. But the guy has no choice now. How will this situation end? Will Adam find a way out?"
             }
-        }    
-    ],
+        },  
+    
 
-    "A2": [
+    "A2":{
+            "": {
+                "author": "",
+                "photo": "",
+                "text": ""
+            },
+    
+            "": {
+                "author": "",
+                "photo": "",
+                "text": ""
+            },
+    
+            "": {
+                "author": "",
+                "photo": "",
+                "text": ""
+            },
+    
+            "": {
+                "author": "",
+                "photo": "",
+                "text": ""
+            },
+    
+            "": {
+                "author": "",
+                "photo": "",
+                "text": ""
+            }
+        },
+
+    "B1":
+        {
+            "": {
+                "author": "",
+                "photo": "",
+                "text": ""
+            },
+    
+            "": {
+                "author": "",
+                "photo": "",
+                "text": ""
+            },
+    
+            "": {
+                "author": "",
+                "photo": "",
+                "text": ""
+            },
+    
+            "": {
+                "author": "",
+                "photo": "",
+                "text": ""
+            },
+    
+            "": {
+                "author": "",
+                "photo": "",
+                "text": ""
+            }
+        },
+
+    "B2": 
+        {
+            "": {
+                "author": "",
+                "photo": "",
+                "text": ""
+            },
+    
+            "": {
+                "author": "",
+                "photo": "",
+                "text": ""
+            },
+    
+            "": {
+                "author": "",
+                "photo": "",
+                "text": ""
+            },
+    
+            "": {
+                "author": "",
+                "photo": "",
+                "text": ""
+            },
+    
+            "": {
+                "author": "",
+                "photo": "",
+                "text": ""
+            }
+        },
+
+    "C1":
+        {
+            "": {
+                "author": "",
+                "photo": "",
+                "text": ""
+            },
+    
+            "": {
+                "author": "",
+                "photo": "",
+                "text": ""
+            },
+    
+            "": {
+                "author": "",
+                "photo": "",
+                "text": ""
+            },
+    
+            "": {
+                "author": "",
+                "photo": "",
+                "text": ""
+            },
+    
+            "": {
+                "author": "",
+                "photo": "",
+                "text": ""
+            }
+        },
+
+    "C2":
         {
             "": {
                 "author": "",
@@ -71,142 +204,5 @@
                 "text": ""
             }
         }    
-    ],
-
-    "B1": [
-        {
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            },
-    
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            },
-    
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            },
-    
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            },
-    
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            }
-        }    
-    ],
-
-    "B2": [
-        {
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            },
-    
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            },
-    
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            },
-    
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            },
-    
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            }
-        }    
-    ],
-
-    "C1": [
-        {
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            },
-    
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            },
-    
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            },
-    
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            },
-    
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            }
-        }    
-    ],
-
-    "C2": [
-        {
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            },
-    
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            },
-    
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            },
-    
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            },
-    
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            }
-        }    
-    ]
-}
+    }
 }
