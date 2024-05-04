@@ -1,208 +1,44 @@
-[
-    {  
-        
-        "A1": 
-        {
-            "London": {
+[    
+    
+    {
+                "namebook": "London",
                 "author": "John Escott",
                 "photo": "https://english-e-reader.net/covers/London-John_Escott.jpg",
                 "text": "Visiting London is a dream of many people. This book is very helpful for the tourists who want to travel to this fantastic city. It takes you on an imaginary tour around London. Maps and pictures help you visualize everything you read about. There are lots of interesting sights in the British capital. London is an old city and has many historic buildings. Among the most famous ones there are the Tower of London, Westminster Abbey, Big Ben and St. Paul's Cathedral. London also boasts about modern architecture. There are many interesting ways to spend time here. You can go shopping in the famous Oxford street or walk in one of the beautiful parks. You can visit restaurants, theatres or museums. You can see even more attractions travelling by the legendary red double-decker bus. It is a unique city which is definitely worth visiting."
-            },
+    },
 
-            "The Cat That Walked by Himself": {
+    {
+                "namebook": "The Cat That Walked by Himself",
                 "author": "Rudyard Kipling",
                 "photo": "https://english-e-reader.net/covers/The_Cat_That_Walked_by_Himself-Rudyard_Kipling.jpg",
                 "text": "This is a story about a cat who liked to walk wherever he wanted. Everything happened at those times when the animals were wild. They lived separately from people. The man was also wild. But he met the woman. She found a nice dry cave and made it their house. They were happy there. One evening the wild dog came to the cave. The woman promised the dog tasty bones for guarding her cave. Later the wild cow and the wild horse also came. She promised fresh grass to the cow and the horse for fresh milk and help with the housework. The cat watched it. He also wanted to be near fire and drink warm milk. Still the cat wanted to walk by himself as usual. The woman did not need such an animal. She needed useful animals. So she made a bargain with the cat."
-            },
+    },
         
-            "Escape": {
+    {
+                "namebook": "Escape",
                 "author": "Phillip Burrows",
                 "photo": "https://english-e-reader.net/covers/Escape-Phillip_Burrows.jpg",
                 "text": "Brown is in prison. But he didn't do anything. He is innocent. But he must stay in this prison for five years. The guards hate him. They are sure that Brown is a thief. Innocent people don't get into a prison. Every day the guards laugh at him. Brown can only read books. It is very difficult for him. One day Brown is looking out of the window. It is a small window under the ceiling, but you can see sky. A bird is flying in the sky. It is free. It flies where it wants. Brown wants to be that bird. And he has an idea how he can be free. He has a book with a photograph of the area near the prison. Now he has a plan how to run away. Brown does everything the next day. In the morning the guard comes to check him. But he sees the empty cell. Brown is not here."
-            },
+    },
         
-            "Zorro": {
+    {   
+                "namebook": "Zorro",
                 "author": "Sally M. Stockton",
                 "photo": "https://english-e-reader.net/covers/Zorro-Sally_M_Stockton.jpg",
                 "text": "Zorro is a popular super hero from Spanish California. He was a foxy and clever revenger, who fought for justice. He wore a mask and a hat, was dressed in black clothes, and was armed with a sword and a whip. Zorro travelled by a black horse and wherever he was, he left a mark by three hits of the sword. Of course, his friends were honest poor natives, and his enemies were dishonest rich men. Sergeant Pedro Gonzales and his soldiers considered Zorro as a criminal and a bandit and wanted to catch him. Once at the February stormy night, the soldiers sat in a tavern and Sergeant Pedro talked to Don Diego that he could easily kill a terrorist Zorro in a fight. When Don Diego went home, Zorro came into the tavern and gave a chance to Sergeant to show that his words cost something."
-            },
+    },
         
-            "Incredible Earth": {
+    {
+                "namebook": "Incredible Earth",
                 "author": "Richard Northcott",
                 "photo": "https://english-e-reader.net/covers/Incredible_Earth-Richard_Northcott.jpg",
                 "text": "In many ways, the planet Earth resembles an orange. They have a similar shape. The planet also, like this fruit, has its own skin - the earth's crust. There are holes in the earth's crust - volcanoes. When they erupt, stone, ash, and hot lava fly out. Thanks to volcanoes, new islands sometimes arise at the planet. Two thirds of the land are covered by water. Basically it is the salty water of the oceans and seas that cannot be drunk. But there are also rivers with fresh water, thanks to which trees grow and animals survive. Rivers usually start in the mountains. They gather from snow or rain and begin to flow below. Rivers form waterfalls. The largest and most beautiful of them are favorite places of tourists even today. Fresh water is very important for life on the planet."
-            },
+    },
         
-            "Give Us the Money": {
+    {
+                "namebook": "Give Us the Money",
                 "author": "Clarke Maeve",
                 "photo": "https://english-e-reader.net/covers/Give_Us_the_Money-Clarke_Maeve.jpg",
                 "text": "Adam is the most ordinary guy in the world. He works in the bank. Every day he doesn't want to go to work, but he goes. His life is boring. Still it is fine for the guy. But one day a sudden adventure happens in Adam's simple and quiet life. First he meets Lisa. Adam decides to help this beautiful girl. Some bandits are trying to take her purse away. But then something strange happens. Lisa's bag contains a large sum of money. This money is from the sale of drugs. Some very dangerous people want to get that money. So Adam gets into a criminal story. It is full of dangers. An ordinary bank worker does not have time to be a hero. But the guy has no choice now. How will this situation end? Will Adam find a way out?"
-            }
-        },  
-    
-
-        "A2":{
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            },
-    
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            },
-    
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            },
-    
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            },
-    
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            }
-        },
-
-        "B1":
-        {
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            },
-    
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            },
-    
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            },
-    
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            },
-    
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            }
-        },
-
-        "B2": 
-        {
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            },
-    
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            },
-    
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            },
-    
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            },
-    
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            }
-        },
-
-        "C1":
-        {
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            },
-    
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            },
-    
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            },
-    
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            },
-    
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            }
-        },
-
-        "C2":
-        {
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            },
-    
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            },
-    
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            },
-    
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            },
-    
-            "": {
-                "author": "",
-                "photo": "",
-                "text": ""
-            }
-        }    
     }
 ]
